@@ -1,1 +1,1 @@
-## NN From Scratch
+## Neural Networks from Scratch
